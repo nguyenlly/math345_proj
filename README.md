@@ -19,3 +19,17 @@ numerical score?
 those which appear on broadcast television (Fox, CBS, etc.)?
 - How do Rotten Tomatoes audience scores compare to the critic scores in regards to
 Marvel TV shows?
+
+
+## Tools Utilized 
+
+
+## Dataset Information
+
+
+
+## Figures
+
+
+## Conclusion 
+
